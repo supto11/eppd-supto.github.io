@@ -1,0 +1,9 @@
+{
+  "LOGIN": {
+    "TITLE": "logga in på ditt konto",
+    "USERNAME": "Användarnamn",
+    "PASSWORD": "Lösenord",
+    "REMEMBER": "kom ihåg den här enheten",
+    "FORGOT_PASSWORD": "glömt ditt lösenord?"
+  }
+}

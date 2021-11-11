@@ -1,0 +1,13 @@
+{
+  "LOGIN": {
+    "TITLE": "logge ind på din konto",
+    "USERNAME": "brugernavn",
+    "PASSWORD": "adgangskode",
+    "LOGIN": "Log på",
+    "REMEMBER": "husk denne enhed",
+    "FORGOT_PASSWORD": "glemt kodeord?"
+  },
+  "VALIDATION_ERROR": {
+    "REQUIRED": "feltet er påkrævet."
+  }
+}

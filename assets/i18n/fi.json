@@ -1,0 +1,9 @@
+{
+  "LOGIN": {
+    "TITLE": "kirjaudu sisään tilillesi",
+    "USERNAME": "käyttäjätunnus",
+    "PASSWORD": "Salasana",
+    "REMEMBER": "muista tämä laite",
+    "FORGOT_PASSWORD": "Unohtuiko salasana?"
+  }
+}

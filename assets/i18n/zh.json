@@ -1,0 +1,9 @@
+{
+  "LOGIN": {
+    "TITLE": "登录到您的帐户",
+    "USERNAME": "用户名",
+    "PASSWORD": "密码",
+    "REMEMBER": "记住这个设备",
+    "FORGOT_PASSWORD": "忘记密码？"
+  }
+}

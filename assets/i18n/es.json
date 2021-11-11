@@ -1,0 +1,9 @@
+{
+  "LOGIN": {
+    "TITLE": "Iniciar sesión en su cuenta",
+    "USERNAME": "nombre de usuario",
+    "PASSWORD": "contraseña",
+    "REMEMBER": "recuerda este dispositivo",
+    "FORGOT_PASSWORD": "¿Has olvidado tu contraseña?"
+  }
+}

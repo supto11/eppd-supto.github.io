@@ -1,0 +1,54 @@
+{
+  "loginPage": {
+    "title": "আপনার অ্যাকাউন্টে সাইন ইন করুন",
+    "companyId": "কোম্পানির আইডি",
+    "username": "ব্যবহারকারীনাম",
+    "password": "পাসওয়ার্ড",
+    "loginButton": "সাইন ইন করো",
+    "signing": "স্বাক্ষর।।।",
+    "remember": "এই ডিভাইসটি মনে রাখবেন",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?"
+  },
+  "layouts": {
+    "toolbar": {
+      "menu": {
+        "profile": "প্রোফাইল",
+        "darkText": "হালকা থিমে স্যুইচ করুন",
+        "lightText": "অন্ধকার থিমে স্যুইচ করুন"
+      }
+    },
+    "sidebar": {
+      "menuGroup": {
+        "dashboard": {
+          "name": "ড্যাশবোর্ড",
+          "items": {
+            "dashboard": "ড্যাশবোর্ড"
+          }
+        },
+        "peoples": {
+          "name": "জনগণ",
+          "items": {
+            "users": "ব্যবহারকারী",
+            "customers": "গ্রাহক",
+            "suppliers": "সরবরাহকারী"
+          }
+        },
+        "products": {
+          "name": "পণ্যের",
+          "items": {
+            "products": "পণ্যের",
+            "categories": "বিভাগসমূহ",
+            "brands": "ব্র্যান্ড",
+            "groups": "গোষ্ঠী",
+            "departments": "বিভাগ",
+            "modifiers": "পরিবর্তনকারী"
+          }
+        }
+      }
+    }
+  },
+  "validationErrors": {
+    "invalidCredentials": "অবৈধ প্রমাণপত্রাদি! দয়া করে আবার চেষ্টা করুন।",
+    "required": "ক্ষেত্রটি প্রয়োজন।"
+  }
+}

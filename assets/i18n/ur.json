@@ -1,0 +1,54 @@
+{
+  "loginPage": {
+    "title": "اپنے اکاؤنٹ میں سائن ان کریں",
+    "companyId": "کمپنی آئی ڈی",
+    "username": "نام صارف",
+    "password": "پاسورڈ",
+    "loginButton": "سائن ان کریں",
+    "signing": "دستخط...",
+    "remember": "یہ آلہ یاد رکھیں",
+    "forgotPassword": "پاس ورڈ بھول گئے؟"
+  },
+  "layouts": {
+    "toolbar": {
+      "menu": {
+        "profile": "پروفائل",
+        "darkText": "موضوع روشنی میں سوئچ کریں",
+        "lightText": "تاریک موضوع پر سوئچ کریں"
+      }
+    },
+    "sidebar": {
+      "menuGroup": {
+        "dashboard": {
+          "name": "ڈیش بورڈ",
+          "items": {
+            "dashboard": "ڈیش بورڈ"
+          }
+        },
+        "peoples": {
+          "name": "پیپلز",
+          "items": {
+            "users": "صارفین",
+            "customers": "گاہکوں",
+            "suppliers": "سپلائر"
+          }
+        },
+        "products": {
+          "name": "مصنوعات",
+          "items": {
+            "products": "مصنوعات",
+            "categories": "زمرے",
+            "brands": "برانڈز",
+            "groups": "گروپ",
+            "departments": "محکموں",
+            "modifiers": "ترمیم کنندگان"
+          }
+        }
+      }
+    }
+  },
+  "validationErrors": {
+    "invalidCredentials": "ناجائز اسناد! براہ کرم دوبارہ کوشش کریں۔",
+    "required": "میدان کی ضرورت ہے."
+  }
+}

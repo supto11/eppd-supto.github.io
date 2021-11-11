@@ -1,0 +1,9 @@
+{
+  "LOGIN": {
+    "TITLE": "Melden Sie sich bei Ihrem Konto an",
+    "USERNAME": "Nutzername",
+    "PASSWORD": "Passwort",
+    "REMEMBER": "erinnern Sie sich an dieses Gerät",
+    "FORGOT_PASSWORD": "Passwort vergessen?"
+  }
+}

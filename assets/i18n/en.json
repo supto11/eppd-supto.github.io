@@ -1,0 +1,56 @@
+{
+  "loginPage": {
+    "title": "Sign in to your account",
+    "companyId": "Company ID",
+    "username": "username",
+    "password": "password",
+    "loginButton": "Sign in",
+    "signing": "Signing...",
+    "remember": "Remember this device",
+    "forgotPassword": "Forgot password?"
+  },
+  "layouts": {
+    "toolbar": {
+      "menu": {
+        "profile": "Profile",
+        "darkText": "Switch to light theme",
+        "lightText": "Switch to dark theme",
+        "signOut": "Sign out"
+      }
+    },
+    "sidebar": {
+      "menuGroup": {
+        "dashboard": {
+          "name": "Dashboard",
+          "items": {
+            "dashboard": "Dashboard"
+          }
+        },
+        "peoples": {
+          "name": "Peoples",
+          "items": {
+            "users": "Users",
+            "customers": "Customers",
+            "suppliers": "Suppliers"
+          }
+        },
+        "products": {
+          "name": "Products",
+          "items": {
+            "products": "Products",
+            "categories": "Categories",
+            "brands": "Brands",
+            "groups": "Groups",
+            "units": "Units",
+            "departments": "Departments",
+            "modifiers": "Modifiers"
+          }
+        }
+      }
+    }
+  },
+  "validationErrors": {
+    "invalidCredentials": "Invalid credentials! Please try again.",
+    "required": "The field is required."
+  }
+}
